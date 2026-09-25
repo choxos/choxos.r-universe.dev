@@ -2,9 +2,5 @@
     {
         "package": "mlumr",
         "url": "https://github.com/choxos/mlumr"
-    },
-    {
-        "package": "ggextreme",
-        "url": "https://github.com/choxos/ggextreme"
     }
 ]
